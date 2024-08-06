@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\OrangeHRMtestProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C789296E-967D-42AE-B17B-D4AE37AE7B3F}|OrangeHRMtestProject.csproj|c:\\users\\lekab\\onedrive\\desktop\\c#testingnunit\\orangehrmtestproject\\basepage\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C789296E-967D-42AE-B17B-D4AE37AE7B3F}|OrangeHRMtestProject.csproj|solutionrelative:basepage\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C789296E-967D-42AE-B17B-D4AE37AE7B3F}|OrangeHRMtestProject.csproj|c:\\users\\lekab\\onedrive\\desktop\\c#testingnunit\\orangehrmtestproject\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C789296E-967D-42AE-B17B-D4AE37AE7B3F}|OrangeHRMtestProject.csproj|solutionrelative:pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C789296E-967D-42AE-B17B-D4AE37AE7B3F}|OrangeHRMtestProject.csproj|c:\\users\\lekab\\onedrive\\desktop\\c#testingnunit\\orangehrmtestproject\\locators\\loginpagelocators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C789296E-967D-42AE-B17B-D4AE37AE7B3F}|OrangeHRMtestProject.csproj|solutionrelative:locators\\loginpagelocators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C789296E-967D-42AE-B17B-D4AE37AE7B3F}|OrangeHRMtestProject.csproj|c:\\users\\lekab\\onedrive\\desktop\\c#testingnunit\\orangehrmtestproject\\utilities\\reportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C789296E-967D-42AE-B17B-D4AE37AE7B3F}|OrangeHRMtestProject.csproj|solutionrelative:utilities\\reportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C789296E-967D-42AE-B17B-D4AE37AE7B3F}|OrangeHRMtestProject.csproj|c:\\users\\lekab\\onedrive\\desktop\\c#testingnunit\\orangehrmtestproject\\tests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C789296E-967D-42AE-B17B-D4AE37AE7B3F}|OrangeHRMtestProject.csproj|solutionrelative:tests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C789296E-967D-42AE-B17B-D4AE37AE7B3F}|OrangeHRMtestProject.csproj|c:\\users\\lekab\\onedrive\\desktop\\c#testingnunit\\orangehrmtestproject\\tests\\dashboardtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C789296E-967D-42AE-B17B-D4AE37AE7B3F}|OrangeHRMtestProject.csproj|solutionrelative:tests\\dashboardtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C789296E-967D-42AE-B17B-D4AE37AE7B3F}|OrangeHRMtestProject.csproj|c:\\users\\lekab\\onedrive\\desktop\\c#testingnunit\\orangehrmtestproject\\tests\\admintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C789296E-967D-42AE-B17B-D4AE37AE7B3F}|OrangeHRMtestProject.csproj|solutionrelative:tests\\admintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C789296E-967D-42AE-B17B-D4AE37AE7B3F}|OrangeHRMtestProject.csproj|c:\\users\\lekab\\onedrive\\desktop\\c#testingnunit\\orangehrmtestproject\\tests\\addusertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C789296E-967D-42AE-B17B-D4AE37AE7B3F}|OrangeHRMtestProject.csproj|solutionrelative:tests\\addusertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C789296E-967D-42AE-B17B-D4AE37AE7B3F}|OrangeHRMtestProject.csproj|c:\\users\\lekab\\onedrive\\desktop\\c#testingnunit\\orangehrmtestproject\\reusablemethod\\elementactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C789296E-967D-42AE-B17B-D4AE37AE7B3F}|OrangeHRMtestProject.csproj|solutionrelative:reusablemethod\\elementactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C789296E-967D-42AE-B17B-D4AE37AE7B3F}|OrangeHRMtestProject.csproj|c:\\users\\lekab\\onedrive\\desktop\\c#testingnunit\\orangehrmtestproject\\pages\\dashboardpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C789296E-967D-42AE-B17B-D4AE37AE7B3F}|OrangeHRMtestProject.csproj|solutionrelative:pages\\dashboardpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C789296E-967D-42AE-B17B-D4AE37AE7B3F}|OrangeHRMtestProject.csproj|c:\\users\\lekab\\onedrive\\desktop\\c#testingnunit\\orangehrmtestproject\\pages\\adduserpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C789296E-967D-42AE-B17B-D4AE37AE7B3F}|OrangeHRMtestProject.csproj|solutionrelative:pages\\adduserpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C789296E-967D-42AE-B17B-D4AE37AE7B3F}|OrangeHRMtestProject.csproj|c:\\users\\lekab\\onedrive\\desktop\\c#testingnunit\\orangehrmtestproject\\locators\\dashboardpagelocators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C789296E-967D-42AE-B17B-D4AE37AE7B3F}|OrangeHRMtestProject.csproj|solutionrelative:locators\\dashboardpagelocators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C789296E-967D-42AE-B17B-D4AE37AE7B3F}|OrangeHRMtestProject.csproj|c:\\users\\lekab\\onedrive\\desktop\\c#testingnunit\\orangehrmtestproject\\locators\\baseclasslocators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C789296E-967D-42AE-B17B-D4AE37AE7B3F}|OrangeHRMtestProject.csproj|solutionrelative:locators\\baseclasslocators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 167,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseClass.cs",
+              "DocumentMoniker": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\OrangeHRMtestProject\\BasePage\\BaseClass.cs",
+              "RelativeDocumentMoniker": "BasePage\\BaseClass.cs",
+              "ToolTip": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\OrangeHRMtestProject\\BasePage\\BaseClass.cs",
+              "RelativeToolTip": "BasePage\\BaseClass.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAiwIkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:11:01.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\OrangeHRMtestProject\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\OrangeHRMtestProject\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "Pages\\LoginPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:03:26.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminTest.cs",
+              "DocumentMoniker": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\OrangeHRMtestProject\\Tests\\AdminTest.cs",
+              "RelativeDocumentMoniker": "Tests\\AdminTest.cs",
+              "ToolTip": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\OrangeHRMtestProject\\Tests\\AdminTest.cs",
+              "RelativeToolTip": "Tests\\AdminTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:03:53.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ElementActions.cs",
+              "DocumentMoniker": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\OrangeHRMtestProject\\ReusableMethod\\ElementActions.cs",
+              "RelativeDocumentMoniker": "ReusableMethod\\ElementActions.cs",
+              "ToolTip": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\OrangeHRMtestProject\\ReusableMethod\\ElementActions.cs",
+              "RelativeToolTip": "ReusableMethod\\ElementActions.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:03:33.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardTest.cs",
+              "DocumentMoniker": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\OrangeHRMtestProject\\Tests\\DashboardTest.cs",
+              "RelativeDocumentMoniker": "Tests\\DashboardTest.cs",
+              "ToolTip": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\OrangeHRMtestProject\\Tests\\DashboardTest.cs",
+              "RelativeToolTip": "Tests\\DashboardTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:51:36.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginTest.cs",
+              "DocumentMoniker": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\OrangeHRMtestProject\\Tests\\LoginTest.cs",
+              "RelativeDocumentMoniker": "Tests\\LoginTest.cs",
+              "ToolTip": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\OrangeHRMtestProject\\Tests\\LoginTest.cs",
+              "RelativeToolTip": "Tests\\LoginTest.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:19:54.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportManager.cs",
+              "DocumentMoniker": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\OrangeHRMtestProject\\Utilities\\ReportManager.cs",
+              "RelativeDocumentMoniker": "Utilities\\ReportManager.cs",
+              "ToolTip": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\OrangeHRMtestProject\\Utilities\\ReportManager.cs",
+              "RelativeToolTip": "Utilities\\ReportManager.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwC4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:29:26.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPageLocators.cs",
+              "DocumentMoniker": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\OrangeHRMtestProject\\Locators\\LoginPageLocators.cs",
+              "RelativeDocumentMoniker": "Locators\\LoginPageLocators.cs",
+              "ToolTip": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\OrangeHRMtestProject\\Locators\\LoginPageLocators.cs",
+              "RelativeToolTip": "Locators\\LoginPageLocators.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:02:52.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashboardPage.cs",
+              "DocumentMoniker": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\OrangeHRMtestProject\\Pages\\DashboardPage.cs",
+              "RelativeDocumentMoniker": "Pages\\DashboardPage.cs",
+              "ToolTip": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\OrangeHRMtestProject\\Pages\\DashboardPage.cs",
+              "RelativeToolTip": "Pages\\DashboardPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:03:14.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DashboardPageLocators.cs",
+              "DocumentMoniker": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\OrangeHRMtestProject\\Locators\\DashboardPageLocators.cs",
+              "RelativeDocumentMoniker": "Locators\\DashboardPageLocators.cs",
+              "ToolTip": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\OrangeHRMtestProject\\Locators\\DashboardPageLocators.cs",
+              "RelativeToolTip": "Locators\\DashboardPageLocators.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:02:46.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseClassLocators.cs",
+              "DocumentMoniker": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\OrangeHRMtestProject\\Locators\\BaseClassLocators.cs",
+              "RelativeDocumentMoniker": "Locators\\BaseClassLocators.cs",
+              "ToolTip": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\OrangeHRMtestProject\\Locators\\BaseClassLocators.cs",
+              "RelativeToolTip": "Locators\\BaseClassLocators.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:02:44.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddUserTest.cs",
+              "DocumentMoniker": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\OrangeHRMtestProject\\Tests\\AddUserTest.cs",
+              "RelativeDocumentMoniker": "Tests\\AddUserTest.cs",
+              "ToolTip": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\OrangeHRMtestProject\\Tests\\AddUserTest.cs",
+              "RelativeToolTip": "Tests\\AddUserTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:49:44.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddUserPage.cs",
+              "DocumentMoniker": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\OrangeHRMtestProject\\Pages\\AddUserPage.cs",
+              "RelativeDocumentMoniker": "Pages\\AddUserPage.cs",
+              "ToolTip": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\OrangeHRMtestProject\\Pages\\AddUserPage.cs",
+              "RelativeToolTip": "Pages\\AddUserPage.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:49:37.777Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 268,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
